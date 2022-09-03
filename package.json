@@ -1,0 +1,18 @@
+{
+  "name": "nuxt3-pinia-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxi dev",
+    "generate": "nuxi generate",
+    "build": "nuxi build",
+    "start": "nuxi start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nuxt": "^3.0.0-rc.8",
+    "nuxt3-pinia": "^1.0.5"
+  }
+}
